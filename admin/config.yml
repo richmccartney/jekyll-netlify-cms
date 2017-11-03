@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: netlify-cms-demo
   repo: https://github.com/richmccartney/jekyll-netlify-cms # Path to your Github repository
   branch: master # Branch to update (master by default)
 
