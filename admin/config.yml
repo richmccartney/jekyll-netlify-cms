@@ -2,9 +2,9 @@ backend:
   name: git-gateway
   repo: https://github.com/richmccartney/jekyll-netlify-cms # Path to your Github repository
   branch: master # Branch to update (master by default)
+  publish_mode: editorial_workflow
 
 media_folder: "img/uploads" # Folder where user uploaded files should go
-publish_mode: editorial_workflow
 
 collections: # A list of collections the CMS should be able to edit
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
