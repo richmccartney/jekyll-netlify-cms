@@ -1,7 +1,7 @@
 ---
 layout: post
 title: This is a new post
-categories: Code
+categories: 'Code, Monzo HQ'
 ---
 We are testing the new:
 
